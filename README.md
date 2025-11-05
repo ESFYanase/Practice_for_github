@@ -1,1 +1,2 @@
 #Practice_for_github
+このレボジトリはgitおよびgithubの操作を練習するためのレポジトリです。
