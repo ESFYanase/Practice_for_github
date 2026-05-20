@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-簡単なPythonアプリケーション(機能拡張版)
+簡単なPythonアプリケーション(統合版)
 """
 
 
 def main():
-    print("Hello, Git! (Enhanced version)")
+    print("Hello, Git! (Merged version)")
     print("新機能が追加されました")
 
 
