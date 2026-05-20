@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-簡単なPythonアプリケーション(緊急修正版)
+簡単なPythonアプリケーション(機能拡張版)
 """
 
 
 def main():
-    print("Hello, Git! (Hotfix version)")
-    print("緊急修正が適用されました")
+    print("Hello, Git! (Enhanced version)")
+    print("新機能が追加されました")
 
 
 if __name__ == "__main__":
