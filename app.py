@@ -6,7 +6,7 @@
 
 def main():
     print("Hello, Git! (Hotfix version)")
-    print("緊急修正が適用されました")
+    print("このファイルは緊急修正が適用されました")
 
 
 if __name__ == "__main__":
